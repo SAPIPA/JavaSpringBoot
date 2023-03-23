@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Change here...
 Updating with new line hereTortoise...
 Dots here...
+=======
+<<<<<<< HEAD
+Creating with Bash
+=======
+Creating with Tortoise.
